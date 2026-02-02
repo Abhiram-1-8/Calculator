@@ -26,9 +26,8 @@ This project performs basic arithmetic operations with a clean UI and smooth use
 
 - **HTML5** – Structure of the calculator  
 - **CSS3** – Styling and responsive layout  
-- **JavaScript (ES6)** – Calculator logic and event handling  
+- **JavaScript** – Calculator logic and event handling  
 
 ---
 
-## 📂 Project Structure
 
